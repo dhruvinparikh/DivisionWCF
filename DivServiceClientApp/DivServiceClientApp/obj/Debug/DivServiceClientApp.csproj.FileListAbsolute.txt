@@ -1,0 +1,10 @@
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\bin\Debug\DivServiceClientApp.exe.config
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\bin\Debug\DivServiceClientApp.exe
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\bin\Debug\DivServiceClientApp.pdb
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.csprojResolveAssemblyReference.cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.Form1.resources
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.Properties.Resources.resources
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.csproj.GenerateResource.Cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.csproj.CoreCompileInputs.cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.exe
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivServiceClientApp\DivServiceClientApp\obj\Debug\DivServiceClientApp.pdb

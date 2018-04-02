@@ -1,0 +1,10 @@
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\bin\Debug\DivServiceHost.exe.config
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\bin\Debug\DivServiceHost.exe
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\bin\Debug\DivServiceHost.pdb
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\bin\Debug\DivService.dll
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\bin\Debug\DivService.pdb
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\bin\Debug\DivService.dll.config
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\obj\Debug\DivServiceHost.csprojResolveAssemblyReference.cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\obj\Debug\DivServiceHost.csproj.CoreCompileInputs.cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\obj\Debug\DivServiceHost.exe
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivServiceHost\obj\Debug\DivServiceHost.pdb

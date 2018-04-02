@@ -1,0 +1,7 @@
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\bin\Debug\DivService.dll.config
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\bin\Debug\DivService.dll
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\bin\Debug\DivService.pdb
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\obj\Debug\DivService.csprojResolveAssemblyReference.cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\obj\Debug\DivService.csproj.CoreCompileInputs.cache
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\obj\Debug\DivService.dll
+C:\humber\Info-Tech-Soln-S\Sem-4\DistributedApplUsing.NET\week7\DivService\DivService\obj\Debug\DivService.pdb
