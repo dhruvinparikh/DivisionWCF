@@ -15,6 +15,8 @@ Add this to  app.config in host to cancel security under service.serviceModel
         </binding>
       </wsHttpBinding>
     </bindings>
-And update enpoint by adding attribute bindingConfiguration
 
-<endpoint address="" binding="wsHttpBinding" contract="DivService.IService1" bindingConfiguration="ws" />
+And update enpoint by adding attribute bindingConfiguration
+<!-- Endpoint modification -->
+<endpoint address="" binding="wsHttpBinding" contract="DivService.IService1" bindingConfiguration="ws">
+</endpoint>
